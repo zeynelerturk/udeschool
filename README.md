@@ -7,6 +7,6 @@ stillendirme ve tasarım yapılmıştır.
 
 <h1> Ekran Gorunumu</h1>
 
-![](ude-schl.gif)
+![](udeschl.gif)
 
 
